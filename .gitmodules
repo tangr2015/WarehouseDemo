@@ -1,0 +1,3 @@
+[submodule "third/imageviewer"]
+	path = third/imageviewer
+	url = git@gitee.com:tangr/imageviewer.git

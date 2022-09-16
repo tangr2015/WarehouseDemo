@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 rootProject.name = "WarehouseDemo"
 include ':app'
 include ':lib'
+
+//include ':imageviewer'
+//project(':imageviewer').projectDir = file('third/imageviewer/imageviewer')
