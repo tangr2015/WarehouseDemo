@@ -1,3 +1,6 @@
 [submodule "third/imageviewer"]
 	path = third/imageviewer
 	url = git@gitee.com:tangr/imageviewer.git
+[submodule "third/StateButton"]
+	path = third/StateButton
+	url = git@gitee.com:tangr/StateButton.git
